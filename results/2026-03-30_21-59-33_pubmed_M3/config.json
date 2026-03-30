@@ -1,0 +1,18 @@
+{
+  "dataset": "pubmed",
+  "num_owners": 3,
+  "num_rounds": 100,
+  "local_epochs": 3,
+  "hidden_dim": 64,
+  "num_layers": 2,
+  "dropout": 0.5,
+  "lr_classifier": 0.001,
+  "weight_decay": 0.0005,
+  "num_pred": 5,
+  "gen_hidden_dim": 64,
+  "lr_generator": 0.001,
+  "seed": 42,
+  "device": "cuda",
+  "train_ratio": 0.6,
+  "val_ratio": 0.2
+}

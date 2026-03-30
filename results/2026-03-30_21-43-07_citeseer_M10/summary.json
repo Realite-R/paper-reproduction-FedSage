@@ -1,0 +1,69 @@
+{
+  "GlobSage": {
+    "accuracy": 0.7523,
+    "f1_macro": 0.7092,
+    "loss": 0.8299
+  },
+  "LocSage": [
+    {
+      "accuracy": 0.6862,
+      "f1_macro": 0.6202,
+      "loss": 1.0729
+    },
+    {
+      "accuracy": 0.4324,
+      "f1_macro": 0.3307,
+      "loss": 1.5646
+    },
+    {
+      "accuracy": 0.5706,
+      "f1_macro": 0.5007,
+      "loss": 1.2184
+    },
+    {
+      "accuracy": 0.2477,
+      "f1_macro": 0.1197,
+      "loss": 2.2723
+    },
+    {
+      "accuracy": 0.2928,
+      "f1_macro": 0.1933,
+      "loss": 2.1042
+    },
+    {
+      "accuracy": 0.4084,
+      "f1_macro": 0.3125,
+      "loss": 1.6451
+    },
+    {
+      "accuracy": 0.4489,
+      "f1_macro": 0.3622,
+      "loss": 1.517
+    },
+    {
+      "accuracy": 0.3964,
+      "f1_macro": 0.3373,
+      "loss": 1.6389
+    },
+    {
+      "accuracy": 0.5405,
+      "f1_macro": 0.4496,
+      "loss": 1.3688
+    },
+    {
+      "accuracy": 0.6246,
+      "f1_macro": 0.586,
+      "loss": 1.1924
+    }
+  ],
+  "FedSage": {
+    "accuracy": 0.7538,
+    "f1_macro": 0.722,
+    "loss": 0.8355
+  },
+  "FedSage+": {
+    "accuracy": 0.7417,
+    "f1_macro": 0.6978,
+    "loss": 0.8497
+  }
+}

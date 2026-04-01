@@ -1,0 +1,34 @@
+{
+  "GlobSage": {
+    "accuracy": 0.869,
+    "f1_macro": 0.8567,
+    "loss": 0.4625
+  },
+  "LocSage": [
+    {
+      "accuracy": 0.6476,
+      "f1_macro": 0.5782,
+      "loss": 1.0526
+    },
+    {
+      "accuracy": 0.6661,
+      "f1_macro": 0.5955,
+      "loss": 0.9956
+    },
+    {
+      "accuracy": 0.4686,
+      "f1_macro": 0.2974,
+      "loss": 1.8923
+    }
+  ],
+  "FedSage": {
+    "accuracy": 0.8875,
+    "f1_macro": 0.8853,
+    "loss": 0.4104
+  },
+  "FedSage+": {
+    "accuracy": 0.8708,
+    "f1_macro": 0.8668,
+    "loss": 0.4497
+  }
+}
